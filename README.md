@@ -1,2 +1,2 @@
 # hello-world
-I like githu
+I like github
